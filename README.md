@@ -1,5 +1,5 @@
-# low_energy_sensor v1.0
-ATtiny85 with a BME280 sensor in I2C (mimics an Oregon Scientific sensor)
+#  very low_energy_sensor v1.0
+ATtiny85 with a SHT31 sensor in I2C (mimics an Oregon Scientific sensor)
 
 ## Arduino IDE
 
